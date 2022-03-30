@@ -1,0 +1,8 @@
+03:06:32.036 [main] ERROR demos.dam - button 2 is not clickable
+03:06:32.074 [main] INFO  demos.dam - we 2 have successfully login to account
+03:06:32.074 [main] DEBUG demos.dam - webelement is displayed
+03:06:32.075 [main] FATAL demos.dam - page is not loaded
+03:08:00.819 [main] TRACE demos.dam - trace 2 is completed
+03:08:00.822 [main] ERROR demos.dam - button 2 is not clickable
+03:08:00.822 [main] INFO  demos.dam - we 2 have successfully login to account
+03:08:00.822 [main] DEBUG demos.dam - webelement is displayed

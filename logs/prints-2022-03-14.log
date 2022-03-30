@@ -1,0 +1,8 @@
+[ERROR] 2022-03-14 01:26:44.218 [main] logdemo - button is not clickable
+[INFO ] 2022-03-14 01:26:44.221 [main] logdemo - we have successfully login to account
+[DEBUG] 2022-03-14 01:26:44.221 [main] logdemo - webelement is displayed
+[FATAL] 2022-03-14 01:26:44.221 [main] logdemo - page is not loaded
+[ERROR] 2022-03-14 01:29:57.285 [main] logdemo - button is not clickable
+[INFO ] 2022-03-14 01:29:57.290 [main] logdemo - we have successfully login to account
+[DEBUG] 2022-03-14 01:29:57.290 [main] logdemo - webelement is displayed
+[FATAL] 2022-03-14 01:29:57.290 [main] logdemo - page is not loaded
